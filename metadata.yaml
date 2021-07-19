@@ -1,0 +1,17 @@
+composer: Reutter der Ältere, Georg
+title: Missa Suscipe deprecationem nostram
+id: (D-Dl Mus.2979-D-8)
+genre: mass
+scoring: S, A, T, B (solo), S, A, T, B (coro), 2 vl, 2 vla, org, b
+sources:
+  1:
+    siglum: D-Dl
+    shelfmark: Mus.2979-D-8
+    type: manuscript copy
+    date: 1730–1740
+    rism: 212006927
+    url: http://digital.slub-dresden.de/id426601769
+github: reutter-missa-suscipe-deprecationem-nostram
+imslp: Missa_Suscipe_Deprecationem_Nostram_(Reutter_der_Ältere%2C_Georg)
+notes:
+
